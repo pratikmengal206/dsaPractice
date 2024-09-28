@@ -3,7 +3,7 @@
  */
 import java.util.*;
 
-public class binToDec {
+public class BinToDec {
 
 public static int bintodec(int a){
 
